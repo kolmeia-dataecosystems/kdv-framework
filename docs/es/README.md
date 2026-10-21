@@ -1,6 +1,6 @@
 # Documentación
 
-Conocimiento original KDV. Propuesta de edición comunitaria 1.1 para revisión; no es una release aceptada. CC BY 4.0. Derechos de terceros reservados.
+Conocimiento original KDV. Edición comunitaria 1.1.0. CC BY 4.0. Derechos de terceros reservados.
 
 - [Primeros pasos](start-here.md)
 - [Principios y baseline](principles.md)

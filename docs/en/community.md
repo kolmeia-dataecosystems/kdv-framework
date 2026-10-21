@@ -30,7 +30,7 @@ Original framework text, diagrams and templates: CC BY 4.0. Website code: MIT. K
 
 ## Release and review boundaries
 
-This proposed edition is visible in a review preview only. It does not replace the published v1.0.0 baseline. Anyone can propose a change; only an accepted protected-main revision can become an official framework release. Website and framework versions remain independent.
+Anyone can propose a change. Official releases are tagged from accepted protected-main revisions; the website imports the exact accepted revision and identifies it with the framework version. Website and framework versions remain independent. The v1.0.0 baseline remains available in the release history.
 
 ## Continue reading
 
@@ -39,6 +39,6 @@ This proposed edition is visible in a review preview only. It does not replace t
 
 ---
 
-Original KDV knowledge. Proposed community edition 1.1 for review; not an accepted release. CC BY 4.0. Third-party rights remain reserved.
+Original KDV knowledge. Community edition 1.1.0. CC BY 4.0. Third-party rights remain reserved.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

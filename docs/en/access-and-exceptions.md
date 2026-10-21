@@ -32,6 +32,6 @@ An exception records the affected rule, business reason, risk, accountable appro
 
 ---
 
-Original KDV knowledge. Proposed community edition 1.1 for review; not an accepted release. CC BY 4.0. Third-party rights remain reserved.
+Original KDV knowledge. Community edition 1.1.0. CC BY 4.0. Third-party rights remain reserved.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

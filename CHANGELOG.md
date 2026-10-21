@@ -1,12 +1,12 @@
 # Changelog
 
-## 1.1.0 — in development
+## 1.1.0 — 2026-10-21
 
-- Proposed 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish, including worked municipal/professional-council examples, AI/privacy decisions and implementation choices.
-- Revised preparation guidance, reference boundaries, documentation groups, duplicate reading links and indicator comparison direction. The complete proposal is reviewable but is not accepted main or a published release.
-
-- Added explicit release metadata, a compatibility convention and an acceptance plan for the next edition. The plan does not claim the proposed content improvements are delivered.
-- Kept framework, website and product version histories independent. Guardian-reviewed main remains the publication boundary.
+- Added English, Brazilian Portuguese, European Portuguese and Spanish editions: 60 guides, 20 editable Markdown templates and four localized diagrams.
+- Added worked municipal/professional-council examples, AI/privacy operating decisions and reference implementation choices.
+- Clarified preparation, business terminology, reference boundaries, documentation groups, reading links and indicator comparison direction.
+- Kept the original open knowledge licences, framework independence and separate website/framework release histories.
+- Scope approved by the project owner after the complete review preview. Native Word/Excel models are outside this release; no workbook validation is claimed.
 
 ## 1.0.0 — baseline designated 2026-10-21
 

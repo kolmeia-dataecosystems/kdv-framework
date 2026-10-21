@@ -73,6 +73,6 @@ Uma equipe fictícia de planejamento de serviços precisa de um agregado semanal
 
 ---
 
-Conhecimento original KDV. Proposta da edição comunitária 1.1 para avaliação; não é uma release aceita. CC BY 4.0. Direitos de terceiros reservados.
+Conhecimento original KDV. Edição comunitária 1.1.0. CC BY 4.0. Direitos de terceiros reservados.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

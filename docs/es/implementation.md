@@ -47,6 +47,6 @@ Los dominios de negocio organizan la responsabilidad. Los entornos de ejecución
 
 ---
 
-Conocimiento original KDV. Propuesta de edición comunitaria 1.1 para revisión; no es una release aceptada. CC BY 4.0. Derechos de terceros reservados.
+Conocimiento original KDV. Edición comunitaria 1.1.0. CC BY 4.0. Derechos de terceros reservados.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

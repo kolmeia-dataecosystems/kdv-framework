@@ -30,7 +30,7 @@ Textos, diagramas e modelos originais do framework: CC BY 4.0. Código do site: 
 
 ## Limites de release e revisão
 
-Esta edição proposta aparece apenas numa prévia para avaliação. Não substitui a referência publicada v1.0.0. Qualquer pessoa pode propor alterações; só uma revisão aceite na main protegida pode tornar-se release oficial. Site e framework mantêm versões independentes.
+Qualquer pessoa pode propor alterações. As releases oficiais são marcadas a partir de revisões aceites na main protegida; o site importa a revisão exata e identifica-a com a versão do framework. Site e framework mantêm versões independentes. A referência v1.0.0 continua disponível no histórico de releases.
 
 ## Continuar a leitura
 
@@ -39,6 +39,6 @@ Esta edição proposta aparece apenas numa prévia para avaliação. Não substi
 
 ---
 
-Conhecimento original KDV. Proposta da edição comunitária 1.1 para avaliação; não é uma release aceite. CC BY 4.0. Direitos de terceiros reservados.
+Conhecimento original KDV. Edição comunitária 1.1.0. CC BY 4.0. Direitos de terceiros reservados.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

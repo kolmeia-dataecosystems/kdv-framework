@@ -30,7 +30,7 @@ Textos, diagramas y plantillas originales: CC BY 4.0. Código del sitio: MIT. La
 
 ## Límites de release y revisión
 
-Esta edición propuesta aparece solo en una vista previa para evaluación. No sustituye la referencia publicada v1.0.0. Cualquier persona puede proponer cambios; solo una revisión aceptada en main protegida puede convertirse en release oficial. Sitio y framework mantienen versiones independientes.
+Cualquier persona puede proponer cambios. Las releases oficiales se etiquetan desde revisiones aceptadas en main protegida; el sitio importa la revisión exacta y la identifica con la versión del framework. Sitio y framework mantienen versiones independientes. La referencia v1.0.0 sigue disponible en el historial de releases.
 
 ## Continuar leyendo
 
@@ -39,6 +39,6 @@ Esta edición propuesta aparece solo en una vista previa para evaluación. No su
 
 ---
 
-Conocimiento original KDV. Propuesta de edición comunitaria 1.1 para revisión; no es una release aceptada. CC BY 4.0. Derechos de terceros reservados.
+Conocimiento original KDV. Edición comunitaria 1.1.0. CC BY 4.0. Derechos de terceros reservados.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

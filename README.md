@@ -12,11 +12,11 @@ The community knowledge base for the open, bee-inspired operational data governa
 - Website implementation: https://github.com/kolmeia-dataecosystems/kdv-framework-site
 - Knowledge repository: https://github.com/kolmeia-dataecosystems/kdv-framework
 - Published baseline: **v1.0.0**, designated 21 October 2026; its original files retain the historical edition 0.1 label.
-- Working next release: **v1.1.0-dev.2**, proposed for review, not published. It contains 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish. See [release policy](RELEASING.md) and [the adoption and clarity plan](releases/1.1.0-plan.md).
+- Current edition: **v1.1.0**, prepared for the owner-approved publication on 21 October 2026. It contains 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish. See [release policy](RELEASING.md) and [release notes](releases/1.1.0.md).
 
 ## What's here
 
-The proposed edition has fifteen guides in each of four languages: getting started; principles; anatomy; roles; lifecycle; access and exceptions; data contracts; evidence; practices and reference lenses; implementation; reference architecture; AI and privacy; worked public-interest examples; community stewardship; glossary. Twenty original Markdown templates and four localized SVG diagrams support practical use. Published v1.0.0 retains the previous three-language inventory.
+Edition 1.1.0 has fifteen guides in each of four languages: getting started; principles; anatomy; roles; lifecycle; access and exceptions; data contracts; evidence; practices and reference lenses; implementation; reference architecture; AI and privacy; worked public-interest examples; community stewardship; glossary. Twenty original Markdown templates and four localized SVG diagrams support practical use. Published v1.0.0 retains the previous three-language inventory.
 
 The model distinguishes Ecosystem, Hive, Cell, Comb, data product and Farm. Named responsibility, a versioned agreement, classification, policy-based access and auditability form a minimum baseline. DAMA-DMBOK 2, DCAM and Data Mesh inform an original operating interpretation; this is not an official equivalence, assessment or certification.
 
@@ -44,9 +44,9 @@ This keeps builds reproducible and makes it possible to review exactly which acc
 
 ```text
 knowledge.json                  Navigation and public content inventory
-docs/{en,pt,es}/*.md             Original, editable documentation
+docs/{en,pt-br,pt,es}/*.md             Original, editable documentation
 diagrams/                       Localized original SVG diagrams
-templates/{en,pt,es}/*.md         Working artefacts
+templates/{en,pt-br,pt,es}/*.md         Working artefacts
 .github/CODEOWNERS               Guardian review ownership
 .github/ISSUE_TEMPLATE/          Questions and anonymised examples
 .github/workflows/check.yml      Read-only pull-request validation
