@@ -8,10 +8,11 @@ The community knowledge base for the open, bee-inspired operational data governa
 | Português | [Índice da documentação](docs/pt/README.md) · [Primeiros passos](docs/pt/start-here.md) |
 | Español | [Índice de documentación](docs/es/README.md) · [Primeros pasos](docs/es/start-here.md) |
 
-- Website documentation: https://kdv-framework.lab-of-codes-6406.chatgpt.site/en/docs/
+- Website documentation: https://kdvframework.org/en/docs/
 - Website implementation: https://github.com/kolmeia-dataecosystems/kdv-framework-site
 - Knowledge repository: https://github.com/kolmeia-dataecosystems/kdv-framework
-- Edition: 0.1 / working community model, 18 October 2026
+- Published baseline: **v1.0.0**, designated 21 October 2026; its original files retain the historical edition 0.1 label.
+- Working next release: **v1.1.0-dev.1**, not published. See [release policy](RELEASING.md) and [the adoption and clarity plan](releases/1.1.0-plan.md).
 
 ## What's here
 
