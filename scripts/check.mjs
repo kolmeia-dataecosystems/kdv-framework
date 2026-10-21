@@ -3,8 +3,22 @@ import {readFile,stat} from 'node:fs/promises';
 import {resolve,dirname,extname} from 'node:path';
 const root=resolve('.');
 const manifest=JSON.parse(await readFile('knowledge.json','utf8'));
+const release=JSON.parse(await readFile('release.json','utf8'));
+assert.match(release.version,/^\d+\.\d+\.\d+(?:-[a-z0-9]+(?:\.[a-z0-9]+)*)?$/);
+assert.equal(manifest.release,release.version,'The inventory must identify the working framework release');
+assert.equal(manifest.version,1,'Inventory schema and framework release are independent');
+assert.match(release.baseline.commit,/^[0-9a-f]{40}$/);
+assert.ok(['development','candidate','stable'].includes(release.status));
+if(release.status==='stable'){
+ assert.equal(release.version,release.target);
+ assert.doesNotMatch(release.version,/-/);
+ assert.equal(manifest.edition,release.version,'A final edition must align its editorial and release labels');
+}else{
+ assert.ok(release.version.startsWith(release.target+'-'));
+ assert.match(release.version,release.status==='candidate'?/-rc\./:/-dev\./);
+}
 assert.equal(manifest.repository,'kolmeia-dataecosystems/kdv-framework');
-assert.deepEqual(manifest.languages,['en','pt','es']);
+assert.deepEqual(manifest.languages,['en','pt-br','pt','es']);
 assert.equal(new Set(manifest.documents.map(d=>d.path)).size,manifest.documents.length);
 const slugs=manifest.documents.filter(d=>d.language==='en').map(d=>d.slug).sort();
 for(const l of manifest.languages)assert.deepEqual(manifest.documents.filter(d=>d.language===l).map(d=>d.slug).sort(),slugs);
