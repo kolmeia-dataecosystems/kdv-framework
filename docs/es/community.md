@@ -28,6 +28,10 @@ El sitio lee una copia versionada de main aprobada, nunca una rama de contribuci
 
 Textos, diagramas y plantillas originales: CC BY 4.0. Código del sitio: MIT. Las marcas KDV y las referencias de terceros conservan sus derechos; las licencias no conceden derechos de marca.
 
+## Límites de release y revisión
+
+Esta edición propuesta aparece solo en una vista previa para evaluación. No sustituye la referencia publicada v1.0.0. Cualquier persona puede proponer cambios; solo una revisión aceptada en main protegida puede convertirse en release oficial. Sitio y framework mantienen versiones independientes.
+
 ## Continuar leyendo
 
 - [Glosario común](glossary.md)
@@ -35,6 +39,6 @@ Textos, diagramas y plantillas originales: CC BY 4.0. Código del sitio: MIT. La
 
 ---
 
-Conocimiento original KDV Framework. Edición comunitaria de trabajo 0.1. CC BY 4.0. Los referentes conservan sus derechos; no implica evaluación oficial o certificación.
+Conocimiento original KDV. Propuesta de edición comunitaria 1.1 para revisión; no es una release aceptada. CC BY 4.0. Derechos de terceros reservados.
 
 [GitHub](https://github.com/kolmeia-dataecosystems/kdv-framework) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

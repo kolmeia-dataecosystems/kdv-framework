@@ -18,7 +18,7 @@ if(release.status==='stable'){
  assert.match(release.version,release.status==='candidate'?/-rc\./:/-dev\./);
 }
 assert.equal(manifest.repository,'kolmeia-dataecosystems/kdv-framework');
-assert.deepEqual(manifest.languages,['en','pt','es']);
+assert.deepEqual(manifest.languages,['en','pt-br','pt','es']);
 assert.equal(new Set(manifest.documents.map(d=>d.path)).size,manifest.documents.length);
 const slugs=manifest.documents.filter(d=>d.language==='en').map(d=>d.slug).sort();
 for(const l of manifest.languages)assert.deepEqual(manifest.documents.filter(d=>d.language===l).map(d=>d.slug).sort(),slugs);

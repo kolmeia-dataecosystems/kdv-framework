@@ -2,6 +2,9 @@
 
 ## 1.1.0 — in development
 
+- Proposed 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish, including worked municipal/professional-council examples, AI/privacy decisions and implementation choices.
+- Revised preparation guidance, reference boundaries, documentation groups, duplicate reading links and indicator comparison direction. The complete proposal is reviewable but is not accepted main or a published release.
+
 - Added explicit release metadata, a compatibility convention and an acceptance plan for the next edition. The plan does not claim the proposed content improvements are delivered.
 - Kept framework, website and product version histories independent. Guardian-reviewed main remains the publication boundary.
 
