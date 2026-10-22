@@ -12,11 +12,11 @@ The community knowledge base for the open, bee-inspired operational data governa
 - Website implementation: https://github.com/kolmeia-dataecosystems/kdv-framework-site
 - Knowledge repository: https://github.com/kolmeia-dataecosystems/kdv-framework
 - Published baseline: **v1.0.0**, designated 21 October 2026; its original files retain the historical edition 0.1 label.
-- Current edition: **v1.1.0**, prepared for the owner-approved publication on 21 October 2026. It contains 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish. See [release policy](RELEASING.md) and [release notes](releases/1.1.0.md).
+- Current edition: **v1.2.0**, the owner-approved functional capability update of 22 October 2026. It contains 60 guides and 20 templates in English, Brazilian Portuguese, European Portuguese and Spanish. See [release policy](RELEASING.md) and [release notes](releases/1.2.0.md).
 
 ## What's here
 
-Edition 1.1.0 has fifteen guides in each of four languages: getting started; principles; anatomy; roles; lifecycle; access and exceptions; data contracts; evidence; practices and reference lenses; implementation; reference architecture; AI and privacy; worked public-interest examples; community stewardship; glossary. Twenty original Markdown templates and four localized SVG diagrams support practical use. Published v1.0.0 retains the previous three-language inventory.
+Edition 1.2.0 has fifteen guides in each of four languages: getting started; principles; anatomy; roles; lifecycle; access and exceptions; data contracts; evidence; practices and reference lenses; implementation; reference architecture; AI and privacy; worked public-interest examples; community stewardship; glossary. Twenty original Markdown templates and four localized SVG diagrams support practical use. Published v1.0.0 retains the previous three-language inventory. The working glossary now includes nineteen technical capabilities and six functional areas per language. KDV Studio/Cloud is an optional example of software support; no tool or supplier is required. A separate [commercial-name/function correspondence](references/tool-function-mapping.pt-br.md) is an editorial reference outside the website inventory.
 
 The model distinguishes Ecosystem, Hive, Cell, Comb, data product and Farm. Named responsibility, a versioned agreement, classification, policy-based access and auditability form a minimum baseline. DAMA-DMBOK 2, DCAM and Data Mesh inform an original operating interpretation; this is not an official equivalence, assessment or certification.
 

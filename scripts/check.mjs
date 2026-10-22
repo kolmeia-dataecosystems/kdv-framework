@@ -25,6 +25,7 @@ for(const l of manifest.languages)assert.deepEqual(manifest.documents.filter(d=>
 for(const d of manifest.documents){
  assert.match(d.slug,/^[a-z][a-z0-9-]+$/);assert.equal(d.path,`docs/${d.language}/${d.slug}.md`);assert.ok(d.title&&d.description&&d.group);
  const md=await readFile(d.path,'utf8');assert.ok(md.startsWith('# '+d.title+'\n'));assert.ok(md.length>900,`${d.path} needs substantive content`);assert.ok(md.includes('CC BY 4.0'));
+ assert.doesNotMatch(md,/\b(?:Mage|SeaweedFS|Iceberg|OpenMetadata|Ranger|Splink|Trino|WSO2|Superset|vassets|Prometheus|Loki|Grafana|Keycloak|OpenLDAP|OpenBao|PostgreSQL|Airflow|dbt Core|OpenLineage)\b|KDV (?:Consumer|Producer|EcOps|PlatOps|Desk)/i,`${d.path}: describe functional capabilities; keep commercial mapping outside the site inventory`);
  assert.doesNotMatch(md,/<script\b|javascript:/i);
  for(const [,target] of md.matchAll(/\]\(([^)]+)\)/g)){
   if(/^(https?:|mailto:|#)/.test(target))continue;

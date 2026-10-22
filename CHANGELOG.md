@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.0 — 2026-10-22
+
+- Added functional glossary entries for nineteen technical capabilities and six supporting areas in all four languages.
+- Replaced named tool and product-module terminology in roles and implementation guidance with the capabilities they provide.
+- Positioned KDV Studio/Cloud as one optional software example, with no purchase requirement or endorsement.
+- Preserved the twenty template URLs, sixty-guide inventory, model meanings and existing diagrams.
+- Kept the supplied commercial/function mapping as an editorial reference outside the website inventory.
+- Recorded the owner-authorised coordinated publication and bounded review procedure; the permanent guardian policy is unchanged.
+
 ## 1.1.0 — 2026-10-21
 
 - Added English, Brazilian Portuguese, European Portuguese and Spanish editions: 60 guides, 20 editable Markdown templates and four localized diagrams.

@@ -24,7 +24,7 @@ We adapt [Semantic Versioning](https://semver.org/) to a knowledge model. The pu
 - **MAJOR**, for example `2.0.0`: incompatible conceptual changes, new mandatory obligations, removed meanings, or removed URLs without compatible redirects. Document migration guidance.
 - `1.1.0-dev.1` means work in development. `1.1.0-rc.1` is reserved for a complete, reviewable release candidate. Neither means the final edition has been published.
 
-The current next target is `1.1.0`; reconsider the major number if the accepted changes break this contract. The target has no promised publication date. See [the next-edition plan](releases/1.1.0-plan.md).
+The current release target is `1.2.0`, a compatible functional terminology update. See [its release notes](releases/1.2.0.md). The earlier [1.1 plan](releases/1.1.0-plan.md) remains historical.
 
 ## Publication sequence
 
