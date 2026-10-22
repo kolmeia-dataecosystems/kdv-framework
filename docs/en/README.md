@@ -1,6 +1,6 @@
 # Documentation
 
-Original KDV knowledge. Community edition 1.1.0. CC BY 4.0. Third-party rights remain reserved.
+Original KDV knowledge. Community edition 1.2.0. CC BY 4.0. Third-party rights remain reserved.
 
 - [Getting started](start-here.md)
 - [Principles and baseline](principles.md)
